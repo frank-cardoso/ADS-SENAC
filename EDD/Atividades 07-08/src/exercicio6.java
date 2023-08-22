@@ -4,8 +4,8 @@ import java.util.Scanner;
 public class exercicio6 {
     public static void main(String[] args)
     {
-        ArrayList<Integer> A = new ArrayList<Integer>();
-        ArrayList<Integer> B = new ArrayList<Integer>();
+        ArrayList<Integer> A = new ArrayList<>();
+        ArrayList<Integer> B = new ArrayList<>();
 
         Scanner scan = new Scanner(System.in);
 
