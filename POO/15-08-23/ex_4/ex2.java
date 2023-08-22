@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class tarefa3 {
+public class ex4_1 {
     public static void main(String[] args) {
         String numero = JOptionPane.showInputDialog(null, "Digite o numero correspondente a cada dia da semana :", "Entrada", JOptionPane.QUESTION_MESSAGE);
         System.out.println(numero);

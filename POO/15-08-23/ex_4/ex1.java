@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class exercicio4_1 {
+public class ex4 {
     public static void main(String[] args) {
         String nome = JOptionPane.showInputDialog(null, "Digite o Nome :", "Entrada", JOptionPane.QUESTION_MESSAGE);
         System.out.println(nome);
